@@ -13,7 +13,7 @@ github_username: shakasom
 github_repo: "shakasom-fastpages"
 
 # OPTIONAL: override baseurl and url if using a custom domain
-url: "https://shakasom.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://https://shakasom.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/shakasom-fastpages" # the subpath of your site, e.g. "/blog".  WARNING: if you are not using a custom domain, the baseurl *must* be set to your repo name.
 
 # Email and twitter are optional:
